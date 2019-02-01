@@ -1,0 +1,384 @@
+.iconList
+{
+    padding:10px;
+}
+.graySmall
+{
+    font-size:10px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.boldName
+{
+    font-size: 16px;
+    color: #000000;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.abel
+{
+    padding:0px;
+    margin:0px;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+
+}
+
+
+p.projectTitle
+{
+    font-weight:bold;
+    font-size:15px;
+    color: #91a7d0;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+
+p.categoriesFont
+{
+    font-weight:bold;
+    font-size:15px;
+    color: #606060;
+
+    text-align: center;
+}
+
+
+p.footerFont {
+
+    font-size: 10px;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:700;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.pagerLink {
+    background-color: #E4F5F8;
+    border: 1px solid #C0DEED;
+    text-decoration: none !important;
+}
+
+.ghost-button-thick-border {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    color: #fff;
+    border: 3px solid #fff;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    transition: background-color 0.2s ease-out,
+    color 0.2s ease-out;
+}
+.ghost-button-thick-border:hover,
+.ghost-button-thick-border:active {
+    background-color: #fff;
+    color: #caf1ff;
+    transition: background-color 0.3s ease-in,
+    color 0.3s ease-in;
+}
+
+.navFont
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 150px;
+    color:white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    margin:10px;
+    background-color: #91a7d0;
+}
+div.show-image {
+    position: relative;
+    float:left;
+    margin:5px;
+}
+div.show-image:hover img{
+    opacity:0.5;
+}
+div.show-image:hover input {
+    display: block;
+}
+div.show-image input {
+    position:absolute;
+    display:none;
+}
+div.show-image input.update {
+    top:0;
+    left:0;
+}
+div.show-image input.delete {
+    top: 0;
+    left: 79%;
+}
+
+.bigbig
+{
+    font-size:50px;
+    text-align: center;
+}
+a:hover {
+    color: whitesmoke ;
+    background-color: #91a7d0 ;
+}
+a {
+    text-decoration: none !important;
+}
+
+body{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 150px;
+}
+.headingFont {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #91A7D0;
+}
+
+.bodyFont
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color:black
+}
+
+.center_div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
+
+
+
+.skyBlueBtn2 {
+    background-color: #ffffff;
+    /* width: 150px; */
+    /* height: 35px; */
+    color: #91a7d0;
+    text-transform: uppercase;
+    border: 0px;
+    float: right;
+
+}
+
+.skyBlueBtn {
+    background-color: #6bb7e2;
+    width: 70px;
+    height: 35px;
+    font-family: open-sans;
+    color: white;
+    text-transform: uppercase;
+    border: 0px;
+    font-weight: bold;
+    float: right;
+
+}
+
+a:hover {
+    color: whitesmoke;
+    background-color: #91a7d0;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 150px;
+}
+
+.headingFont {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    text-transform: uppercase;
+    color: #91a7d0;
+    padding: 10px;
+}
+
+.bodyFont {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: black
+}
+
+#projectThumbnail > input {
+    display: none;
+}
+a:hover {
+    color: whitesmoke ;
+    background-color: #91a7d0 ;
+}
+a {
+    text-decoration: none !important;
+}
+.gogooma{
+    background-color: #1c1c1c;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .08em;
+    line-height: 1em;
+    padding: 2em 4.5em;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    -webkit-appearance: none;
+    transition: opacity .1s ease-out
+
+}
+body{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 150px;
+}
+.headingFont {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #91a7d0;
+}
+
+.bodyFont
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color:black
+}
+
+.gogoomaFont{
+    /* border: none; */
+    /* border-radius: 0; */
+    color: black;
+    /* cursor: pointer; */
+    display: inline-block;
+    font-family: open-sans;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .08em;
+    /* line-height: 1em; */
+    /* padding: 2em 4.5em; */
+    padding-top: 10px;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.modal-dialog {
+    width: 50%;
+    height: 50%;
+    padding: 0;
+}
+
+@media(min-width:992px) {
+
+    .equal, .equal > div[class*='col-'] {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        flex: 1 1 auto;
+    }
+}
+p.TitleDecoration {
+    font-weight: bold;
+    margin: 0px;
+    text-transform: uppercase;
+}
+
+
+p.kortfolio-aboutMark{
+    font-family: 'Merriweather', serif;
+    font-size: 21px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+}
+
+p.descriptionQuote {
+    font-family: 'Merriweather', serif;
+    
+}
+
+  @font-face {
+            font-family: 'isotonic';
+            src: url('../fonts/isotonic/Isotonic-regular.ttf') format('truetype');
+        }
+div.kortfolio-UnitWrapper
+{
+    font-family: 'isotonic'; 
+    text-align:center;
+}
+
+
+h4.kortfolio-ProjectTitle
+{
+    text-transform:uppercase;
+    font-size:17px;
+}
+
+h5.kortfolio-Stack
+{
+    color: #6e6e6e;
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+ul.kortfolio-ProjectDetail
+{
+    font-family: 'isotonic';
+    font-size: 15px;
+}
+
+ul.kortfolio-EmploymentDetail
+{
+    font-family: 'isotonic';
+    font-size: 21px;
+}
+
+p.kortfolio-Headline 
+{ 
+    font-family: 'isotonic'; 
+    text-transform: uppercase; 
+    font-size: 30px;
+    text-align: center; 
+    
+}
+
+
+

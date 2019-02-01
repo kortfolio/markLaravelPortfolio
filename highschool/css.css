@@ -1,0 +1,13 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#f5f5f5;
+    font-size: 14px;
+}
+
+.clientInfoTitle
+{
+text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    color:#91a7d0;
+    font-size: 14px;
+}

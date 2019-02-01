@@ -1,0 +1,5 @@
+[29-Jan-2019 02:09:03 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/d8tnaq71nal6/public_html/database/migrations/2016_08_06_053959_create_users_table.php on line 34
+[29-Jan-2019 02:11:10 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/d8tnaq71nal6/public_html/database/migrations/2016_08_06_053959_create_users_table.php on line 34
+[29-Jan-2019 02:12:44 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/d8tnaq71nal6/public_html/database/migrations/2016_08_06_053959_create_users_table.php on line 34
+[29-Jan-2019 02:13:02 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/d8tnaq71nal6/public_html/database/migrations/2016_08_06_053959_create_users_table.php on line 34
+[29-Jan-2019 02:14:05 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/d8tnaq71nal6/public_html/database/migrations/2016_08_06_053959_create_users_table.php on line 34
